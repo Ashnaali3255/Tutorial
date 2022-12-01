@@ -50,15 +50,7 @@ HTML,CSS
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/Ashnaali3255)
-- Twitter: [@twitterhandle](https://twitter.com/Ashna_Ali1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashna-ali-342151255/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
