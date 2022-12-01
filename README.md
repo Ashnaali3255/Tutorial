@@ -1,23 +1,4 @@
 <a name="readme-top"></a>
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-<div align="center">
-
-  <img src="./logo.jpeg" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
