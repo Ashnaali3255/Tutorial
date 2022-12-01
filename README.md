@@ -14,7 +14,7 @@ REQUIRED SECTIONS:
 
 <div align="center">
 
-  <img src="logo.jpeg" alt="logo" width="140"  height="auto" />
+  <img src="./logo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
 </div>
